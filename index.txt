@@ -1,0 +1,84 @@
+Stefan Ionescu - Personal Website
+
+# sidebar
+
+alt = Stefan Ionescu
+Stefan Ionescu
+Founder / Web3 Developer
+
+Show Contacts
+
+Github
+https://github.com/stefanionescu
+
+Telegram
+@sionescu
+
+Discord
+Stefan 🗿🌌#9376
+
+# navbar
+
+About
+Resume
+
+# about
+
+About Me
+
+Hi, I'm Stefan! I've been in the crypto space since late 2017 when I started falling in love with Ethereum. Since then, I led the development of a PID controlled stable asset and was one of the main contributors for a leading decentralized exchange.
+
+I also used to dive into Ethereum scaling solutions and build infrastructure that connects traditional finance to DeFi. In another life, I was a mobile developer.
+
+
+## service
+
+What I'm Doing
+
+alt = protocol design icon
+Protocol Design
+Architecting smart contract based systems
+
+alt = development icon
+Smart Contract Development
+Solidity smart contract development
+
+alt = project management icon
+Project Management
+Leading operations and/or product development within several startups for the last three years
+
+
+# resume
+
+Resume
+
+Present
+
+Delphi Labs
+2022 - Ongoing
+Leading various research initiatives as well as DeFi related projects within Labs.
+
+Reflexer DAO
+2022 - Ongoing
+
+Past
+
+Astroport
+2021 - 2022
+Contributor to Astroport, a multi-pool type DEX that used to rank in top five DEXs in the world by volume.
+
+Reflexer Labs
+2020 - 2022
+Led research and development for a PID controlled stable asset inspired by the original vision for MakerDAO's DAI stablecoin.
+
+Researcher
+2019 - 2020
+Received a grant from Binance X that allowed me to research stablecoin and other synthetic asset protocols.
+
+Solidity Developer
+2017 - 2019
+Researched Ethereum scaling (Plasma), built infrastructure to connect TradFi loans to smart contracts, built
+
+Android Developer
+2014 - 2017
+Freelance mobile developer mainly focused on Android apps.
