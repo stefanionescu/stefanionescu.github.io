@@ -30,7 +30,6 @@ Hi, I'm Stefan! I've been in the crypto space since late 2017 when I started fal
 
 I also used to dive into Ethereum scaling solutions and build infrastructure that connects traditional finance to DeFi. In another life, I was a mobile developer.
 
-
 ## service
 
 What I'm Doing
@@ -46,7 +45,6 @@ Solidity smart contract development
 alt = project management icon
 Project Management
 Leading operations and/or product development within several startups for the last three years
-
 
 # resume
 
