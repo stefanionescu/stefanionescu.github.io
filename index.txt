@@ -63,7 +63,7 @@ Past
 
 Astroport
 2021 - 2022
-Contributor to Astroport, a multi-pool type DEX that used to rank in the top five in the world by volume.
+Core contributor to Astroport, a multi-pool type DEX that used to rank in the top five in the world by volume (average of $300M in daily volume).
 
 Reflexer Labs
 2020 - 2022
