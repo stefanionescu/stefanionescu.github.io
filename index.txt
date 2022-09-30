@@ -26,9 +26,12 @@ Resume
 
 About Me
 
-Hi, I'm Stefan! I've been in the crypto space since late 2017 when I started falling in love with Ethereum.
+Hi, I'm Stefan! I've been in the crypto space since late 2017 when I started falling in love with Ethereum. 
+Since then, I cofounded and led the development of RAI which is a crypto stable asset managed by a PID controller. 
+I was also one of the main contributors for Astroport which used to be one of the largest decentralized exchanges in the world (average daily volume of $300M, peaked at $1.5B+).
 
-Since then, I led the development of a PID controlled stable asset and was one of the main contributors for Astroport which used to be one of the top decentralized exchanges in the world by volume.
+Prior to starting my own startup, I used to dive into Ethereum scaling solutions and build infrastructure that connects traditional finance to DeFi. 
+In another life, I was a mobile app developer.
 
 ## service
 
