@@ -4,7 +4,7 @@ Stefan Ionescu - Personal Website
 
 alt = Stefan Ionescu
 Stefan Ionescu
-Founder / Web3 Developer
+Founder / Project Lead
 
 Show Contacts
 
@@ -13,9 +13,6 @@ https://github.com/stefanionescu
 
 Telegram
 @sionescu
-
-Discord
-Stefan 🗿🌌#9376
 
 # navbar
 
@@ -26,11 +23,11 @@ Resume
 
 About Me
 
-Hi, I'm Stefan! I've been in the crypto space since late 2017 when I started falling in love with Ethereum. 
-Since then, I cofounded and led the development of RAI which is a crypto stable asset managed by a PID controller. 
-I was also one of the main contributors for Astroport which used to be one of the largest decentralized exchanges in the world (average daily volume of $300M, peaked at $1.5B+).
+Hi, I'm Stefan! I've been in the tech space (with a focus on crypto) since late 2017 when I started falling in love with Ethereum. 
+I cofounded and led the development of RAI which is a crypto stable asset managed by a PID controller. At its peak, the RAI protocol had more than $390M in total value locked.
+I was also one of the main contributors to Astroport which used to be one of the largest decentralized exchanges in the world (average daily volume of $300M, total value locked peaked at $1.7 billion).
 
-Prior to starting my own startup, I used to dive into Ethereum scaling solutions and build infrastructure that connects traditional finance to DeFi. 
+Prior to RAI and Astroport, I used to dive into Ethereum scaling solutions and build infrastructure that connects traditional finance to DeFi. 
 In another life, I was a mobile app developer.
 
 ## service
@@ -42,12 +39,12 @@ Protocol Design
 Architecting smart contract based systems
 
 alt = development icon
-Smart Contract Development
+Product Development
 Solidity smart contract development
 
 alt = project management icon
-Project Management
-Leading operations and/or product development within several startups for the last three years
+Project Lead
+Leading operations and product development within several startups for the last four years
 
 # resume
 
@@ -55,28 +52,20 @@ Resume
 
 Present
 
-Delphi Labs
-2022 - Ongoing
-Leading various research initiatives as well as DeFi related projects within Labs.
+Astroport
+2021 - Ongoing
+Core contributor to Astroport, a multi-pool type decentralized exchange that used to rank in the top five in the world by volume (average of $300M in daily volume).
 
 Past
 
-Astroport
-2021 - 2022
-Core contributor to Astroport, a multi-pool type DEX that used to rank in the top five in the world by volume (average of $300M in daily volume).
-
 Reflexer Labs
 2020 - 2022
-Led research and development for a PID controlled stable asset inspired by the original vision for MakerDAO's DAI stablecoin.
+Led research and development for a [PID controlled](https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller) stable asset inspired by the original vision for MakerDAO's DAI stablecoin.
 
 Researcher
 2019 - 2020
 Received a grant from Binance X that allowed me to research stablecoin and other synthetic asset protocols.
 
-Solidity Developer
+Smart Contract Developer
 2017 - 2019
-Researched Ethereum scaling (Plasma), built infrastructure to connect TradFi loans to smart contracts and various other small/passion projects.
-
-Android Developer
-2014 - 2017
-Freelance mobile developer mainly focused on Android apps.
+Researched Ethereum scaling (Plasma), built infrastructure to connect TradFi loans to smart contracts and various other small projects.
