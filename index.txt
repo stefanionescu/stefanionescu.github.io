@@ -42,7 +42,7 @@ alt = development icon
 Product Development
 Solidity smart contract development
 
-alt = project management icon
+alt = project lead icon
 Project Lead
 Leading operations and product development within several startups for the last four years
 
