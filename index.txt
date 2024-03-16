@@ -54,7 +54,7 @@ Resume
 Present
 
 Mobile Games
-February 2023 - Present
+February 2024 - Present
 Building two mobile games called Tiles (2048 style game using faces) and BackPack (PvP game where people compete to see who gets more likes on social media).
 
 Past
