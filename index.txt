@@ -23,8 +23,9 @@ Resume
 
 About Me
 
-Hi, I'm Stefan! I've been in the tech space (with a focus on crypto) since late 2017 when I started falling in love with Ethereum. 
-I cofounded and led the development of RAI which is a crypto stable asset managed by a PID controller. At its peak, the RAI protocol had more than $390M in total value locked.
+Hi, I'm Stefan! Currently I'm building two mobile games called Tiles and BackPack. 
+I've been in the tech space (with a focus on crypto) since late 2017 when I started falling in love with Ethereum. 
+In 2020, I cofounded and led the development of RAI which is a crypto stable asset managed by a PID controller. At its peak, the RAI protocol had more than $390M in total value locked.
 I was also one of the main contributors to Astroport which used to be one of the largest decentralized exchanges in the world (average daily volume of $300M, total value locked peaked at $1.7 billion).
 
 Prior to RAI and Astroport, I used to dive into Ethereum scaling solutions and build infrastructure that connects traditional finance to DeFi. 
@@ -34,13 +35,13 @@ In another life, I was a mobile app developer.
 
 What I'm Doing
 
-alt = protocol design icon
-Protocol Design
-Architecting smart contract based systems
+alt = mobile games icon
+Mobile Games
+Building games at the intersection of mobile, gen AI and social media.
 
 alt = development icon
 Product Development
-Solidity smart contract development
+Solidity smart contract development. Javascript/Typescript and some Python on the side.
 
 alt = project lead icon
 Project Lead
@@ -52,11 +53,15 @@ Resume
 
 Present
 
-Astroport
-2021 - Ongoing
-Core contributor to Astroport, a multi-pool type decentralized exchange that used to rank in the top five in the world by volume (average of $300M in daily volume).
+Mobile Games
+February 2023 - Present
+Building two mobile games called Tiles (2048 style game using faces) and BackPack (PvP game where people compete to see who gets more likes on social media).
 
 Past
+
+Astroport
+2021 - December 2023
+Core contributor to Astroport, a multi-pool type decentralized exchange that used to rank in the top five in the world by volume (average of $300M in daily volume).
 
 Reflexer Labs
 2020 - 2022
