@@ -4,7 +4,7 @@ Stefan Ionescu - Personal Website
 
 alt = Stefan Ionescu
 Stefan Ionescu
-Founder / Project Lead
+Founder
 
 Show Contacts
 
