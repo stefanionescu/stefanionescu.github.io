@@ -26,9 +26,10 @@ Resume
 
 About Me
 
-Hi, I'm Stefan! Currently I'm building two mobile games called Tiles and BackPack. 
-I've been in the tech space since late 2017 when I started working in crypto. 
-In 2020, I cofounded and led the development of RAI which is a stablecoin managed by a PI (proportional integral) controller. At its peak, the RAI protocol had more than $390 million in user funds.
+Hi, I'm Stefan! Currently I'm BackPack, a Discord bot that transforms images into songs.
+
+I've been in the tech space since late 2017 when I started working in crypto. In 2020, I cofounded and led the development of RAI which is a stablecoin managed by a PI (proportional integral) controller. At its peak, the RAI protocol had more than $390 million in user funds.
+
 I was also one of the main contributors to Astroport which used to be one of the largest decentralized exchanges in the world (average daily volume of $300 million, user funds peaked at $1.7 billion).
 
 Prior to RAI and Astroport, I used to dive into Ethereum scaling solutions and build infrastructure that connects traditional finance to DeFi. 
@@ -39,7 +40,7 @@ In another life, I was a mobile app developer.
 What I'm Doing
 
 alt = mobile games icon
-Mobile Games
+Consumer Apps
 Building consumer apps at the intersection of gaming, gen AI and social media.
 
 alt = development icon
@@ -58,7 +59,7 @@ Present
 
 Mobile Games
 February 2024 - Present
-Building two mobile games called Tiles (2048 style game using faces) and BackPack (PvP game where people compete to see who gets more likes on social media).
+Building various consumer apps. Currently focused on BackPack, a Discord bot that trasforms images into songs.
 
 Past
 
