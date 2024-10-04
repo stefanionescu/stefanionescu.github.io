@@ -26,7 +26,7 @@ Resume
 
 About Me
 
-Hi, I'm Stefan! Currently I'm BackPack, a Discord bot that transforms images into songs.
+Hi, I'm Stefan! Currently I'm BackPack, an AI companion app that's a combination of Character.ai and Perplexity.
 
 I've been in the tech space since late 2017 when I started working in crypto. In 2020, I cofounded and led the development of RAI which is a stablecoin managed by a PI (proportional integral) controller. At its peak, the RAI protocol had more than $390 million in user funds.
 
@@ -59,7 +59,7 @@ Present
 
 Mobile Games
 February 2024 - Present
-Building various consumer apps. Currently focused on BackPack, a Discord bot that trasforms images into songs.
+Building various consumer apps. Currently focused on BackPack, an AI companion app that's a combination of Character.ai and Perplexity.
 
 Past
 
